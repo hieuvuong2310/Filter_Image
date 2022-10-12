@@ -1,6 +1,7 @@
 # Filter_Image
 This is the product of learning in CS50-Harvard.
 When running the code, the image will be changed into the expected filter.
+
 Command to run the code:
 Run this command first: 
   $ make filter
